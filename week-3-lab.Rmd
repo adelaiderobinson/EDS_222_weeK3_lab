@@ -142,7 +142,7 @@ lm(head_l ~ tail_l, data = possum) |>  broom::tidy() |> gt()
 5. [If we have time] Repeat the above steps for the relationship between possum tail length and possum head length. Can you learn anything from directly comparing magnitudes of $\hat\beta_1$ across these two regressions?
 
 ```{r}
-
+   
 ```
 
 ## Visualize Regression [if we have time]
